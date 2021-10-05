@@ -29,7 +29,7 @@ main {
 
 .step-img1 {
   height: 150px;
-  background-image: url(chapter9_answer/img/flow01.png);
+  background-image: url(img/flow01.png);
   background-position: bottom;
   background-size: cover;
 }
